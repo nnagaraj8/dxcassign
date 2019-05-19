@@ -3,7 +3,8 @@ package dxcassignment;
 /**
  * Hello world!
  *
- */
+ */@RestController
+@RequestMapping("/welcome")
 public class App 
 {
     public static void main( String[] args )
